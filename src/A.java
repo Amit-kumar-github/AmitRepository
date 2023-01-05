@@ -4,6 +4,7 @@ import java.lang.reflect.InvocationTargetException;
 public class A {
 public static void main(String[] args) throws CloneNotSupportedException, InstantiationException, IllegalAccessException, IllegalArgumentException, InvocationTargetException, NoSuchMethodException, SecurityException {
 
+	//5 ways to create object
 	//1. using new keyword
 	A a1=new A();
 	
